@@ -1,0 +1,30 @@
+{
+  "name": "vaga-backend-teste",
+  "version": "1.0.0",
+  "description": "Olá Dev! Tudo bem?",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http": "0.0.0",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedFoxTech/vaga-backend-teste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedFoxTech/vaga-backend-teste/issues"
+  },
+  "homepage": "https://github.com/RedFoxTech/vaga-backend-teste#readme"
+}
