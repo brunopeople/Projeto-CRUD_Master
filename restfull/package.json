@@ -20,6 +20,6 @@
   "dependencies": {
     "consign": "^0.1.6",
     "express": "^4.17.1",
-    "express-validator": "^6.1.1"
+    "express-validator": "^5.1.2"
   }
 }
